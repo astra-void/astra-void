@@ -30,9 +30,8 @@ Docs live at **[docs.astra-void.xyz](https://docs.astra-void.xyz)** ([source](ht
 
 ### Web
 
-Mostly Next.js App Router on React 19 and Tailwind 4, with Cloudflare Workers and Hono when it belongs at the edge. The source is mostly private, so the links here go to the products.
+Mostly Next.js App Router on React 19 and Tailwind 4, with Cloudflare Workers and Hono when it belongs at the edge. Most of the source is private.
 
-- **[Project RowCat](https://project-rowcat.com)** — local-first AI character and story chat. Conversations live in the browser, LLM keys never leave it, and sync between devices is end-to-end encrypted so the server only ever holds ciphertext. A Next.js monorepo with an Expo app, an importer extension, payments, and its own [status page](https://status.project-rowcat.com).
 - **[astra-void.xyz](https://astra-void.xyz)** — the personal site.
 - **[fastify-svg-renderer-template](https://github.com/astra-void/fastify-svg-renderer-template)** — Fastify + Preact SVG renderer, Lambda-first, with a plain Node entry if you'd rather run it as a server.
 
